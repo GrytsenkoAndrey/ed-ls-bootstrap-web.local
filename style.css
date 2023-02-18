@@ -1,3 +1,16 @@
 #mainNav {
     background-color: gray;
 }
+/*
+https://www.generatormix.com/random-image-generator
+*/
+header .htop {
+    background-image:url(https://pixabay.com/get/ge76e24b8f9db7b23f78e3990799ff05c1388858184a29ba628b8ddeb3443989a210adff83e1003d4b393ccac2210b966_1280.jpg);
+    text-align: center;
+    object-fit: cover;
+    min-height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    width:100%;
+}
